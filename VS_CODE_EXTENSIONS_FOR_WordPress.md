@@ -20,16 +20,36 @@
 
 ---
 
+## JavaScript Extensions:
+
+9. **JavaScript (ES6) Code Snippets (charalampos karypidis) -** Extension offers a collection of handy code snippets that can save you time and effort while writing JavaScript code.
+
+10. **ESLint (Microsoft) -** It is a widely adopted linter that helps you catch errors, enforce coding standards, and improve code quality in JavaScript and TypeScript.
+
+11. **Prettier (Prettier) -** Code formatter that enforces consistent code style across your projects.
+
+---
+
+## PHP Extensions:
+
+12. PHP Intelephense
+
+13. PHP DocBlocker
+
+14. PHP Namespace Resolver
+
+---
+
 ## BOOST UP EDITOR:
 
-9. **Live Server (Ritwick Dey) -** Allows you to create a local development server with live reloading.
+15. **Live Server (Ritwick Dey) -** Allows you to create a local development server with live reloading.
 
-10. **Code Spell Checker (Street Side Software) -** Spelling Checker for Visual Studio Code.
+16. **Code Spell Checker (Street Side Software) -** Spelling Checker for Visual Studio Code.
 
-11. **CodeSnap (adpyke) -** Simplifies the process of taking code screenshots.
+17. **CodeSnap (adpyke) -** Simplifies the process of taking code screenshots.
 
-12. **vscode-icons (VSCode Icons Team) -** Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
+18. **vscode-icons (VSCode Icons Team) -** Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
 
-13. **GitLens (GitKraken) -** It is a powerful extension that integrates Git capabilities directly into your editor.
+19. **GitLens (GitKraken) -** It is a powerful extension that integrates Git capabilities directly into your editor.
 
-14. **Code Runner (Jun Han) -** Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
+20. **Code Runner (Jun Han) -** Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
